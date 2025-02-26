@@ -44,9 +44,8 @@ body * {
 }
 
 #container {
-  width: 360px;
-  /* height: 712px; */
-  /* border: 1px solid white; */
+  width: 100%;
+  max-width: 588px;
   margin: 56px auto 0px; /*Relogio top>lados>bottom*/
   padding: 0 24px;
 }
