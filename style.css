@@ -170,7 +170,7 @@ footer {
   font-size: 14px;
 }
 
-@media (min-width: 588px) {
+@media (min-width: 589px) {
   :root {
     --bg-url: url(./assets/bg-desktop-darkGreen.jpg);
   }
